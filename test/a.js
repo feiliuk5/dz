@@ -1,0 +1,1 @@
+﻿function myFunction(){var s="段落被更改。";document.getElementById("demo").innerHTML=s;}
